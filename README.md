@@ -13,6 +13,12 @@ What can this do:
 - Get figures about: (Finished)
   - PAE
 
+## Usage
+
+```bash
+python vis_pae.py <alphafold_prediction_directory>
+```
+
 ## Example
 
 ![image](image/figure_pae_0.png)
